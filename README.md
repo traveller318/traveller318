@@ -77,13 +77,4 @@
   <a href="https://instagram.com/harshav_3185" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="52" height="40" alt="instagram logo" style="margin:0 5px" />
   </a>
-  <a href="https://leetcode.com/u/Harshav_Shah" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="52" height="40" alt="leetcode logo" style="margin:0 5px" />
-  </a>
-  <a href="https://codeforces.com/profile/normal_coder31" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" width="52" height="40" alt="codeforces logo" style="margin:0 5px" />
-  </a>
-  <a href="https://www.codechef.com/users/traveller318" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="52" height="40" alt="codechef logo" style="margin:0 5px" />
-  </a>
 </div>
